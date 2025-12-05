@@ -24,6 +24,7 @@ namespace Managers
             _fruits.Add(Fruits.Banana, 0);
             _fruits.Add(Fruits.Pineapple, 0);
             _fruits.Add(Fruits.Melon, 0);
+            _fruits.Add(Fruits.Carrot, 0);
             OnFruitNumbersChanged?.Invoke();
         }
         public int GetFruitNumber(Fruits fruit)

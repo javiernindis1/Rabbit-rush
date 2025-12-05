@@ -7,5 +7,6 @@ public enum Fruits
 {
     Melon,
     Pineapple,
-    Banana
+    Banana,
+    Carrot
 }
