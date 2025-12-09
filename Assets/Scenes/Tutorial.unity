@@ -442,8 +442,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 242648670}
-        m_TargetAssemblyTypeName: GamePausedPanel, Assembly-CSharp
-        m_MethodName: SeeNextLevel
+        m_TargetAssemblyTypeName: GameEndPanel, Assembly-CSharp
+        m_MethodName: TutorialClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
